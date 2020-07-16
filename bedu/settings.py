@@ -25,7 +25,7 @@ SECRET_KEY = 'xcer_&=rgm5=^7k^q_momm30ha^48j@l&x$1-jbr9peuisvb-@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
