@@ -1,0 +1,1 @@
+web: gunicorn BEDU_DJANGO.wsgi --log-file -
